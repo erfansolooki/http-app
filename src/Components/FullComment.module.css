@@ -1,0 +1,24 @@
+.fullComment {
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0;
+    border-radius: 8px;
+}
+
+.fullComment main {
+    background-color: #fff;
+    width: 45rem;
+    /* height: 10rem; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.fullComment main section {
+    margin: 2rem;
+}
+
+.delete {
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,19 @@
+.newComments {
+    display: flex;
+    justify-content: center;
+}
+
+.newComments main {
+    background: #fff;
+    width: 45rem;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+}
