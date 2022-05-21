@@ -1,6 +1,6 @@
 section {
     /* width: 15rem; */
-    margin: 0 2rem;
+    margin: 16px 2rem;
     background-color: #f1f1f1;
     border-radius: 6px;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
@@ -9,6 +9,7 @@ section {
 .comments {
     display: flex;
     justify-content: center;
+    /* justify-content: space-around; */
 }
 
 .comments main {

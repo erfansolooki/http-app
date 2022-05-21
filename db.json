@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "name": "erfan",
+      "email": "Shz.pch@gmail.com",
+      "body": "hh",
+      "id": 2
+    },
+    {
+      "name": "john",
+      "email": "mehrzadsolooki43@gmail.com",
+      "body": "999",
+      "id": 3
+    }
+  ]
+}
